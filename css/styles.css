@@ -127,7 +127,7 @@ body {
     color: var(--slate);
 }
 
-main-opportunities-section {
+.main-opportunities-section {
     background-color: var(--white);
 }
 
